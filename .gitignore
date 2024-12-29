@@ -1,3 +1,4 @@
 venv/
-alx_travel_app/myvenv/
+myenv/
 alx_travel_app/venv/
+.env
